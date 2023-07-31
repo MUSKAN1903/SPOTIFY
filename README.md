@@ -1,2 +1,4 @@
 # SPOTIFY
-scraping data using Spotify API, Analyzing and developing a recommendation system
+Scraping data from Spotify using Spotify API
+Analyzing the data and visualizing using Power BI
+Developing a recommendation system
