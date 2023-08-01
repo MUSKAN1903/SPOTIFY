@@ -5,7 +5,8 @@
 
 ## SPOTIFY DATA ANALYSIS FOR YEARS 2021-2023
 
-![image](https://github.com/MUSKAN1903/SPOTIFY/assets/70433658/c0c74dd1-7ec1-4a60-8771-b9dc96827c5d)
+![image](https://github.com/MUSKAN1903/SPOTIFY/assets/70433658/f7cb308f-9eac-413d-9898-6e256a3ae0e4)
+
 
 
 
